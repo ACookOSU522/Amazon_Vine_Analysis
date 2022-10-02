@@ -6,16 +6,21 @@ Connecting to an AWS RDS instance and loading data into PgAdmin, then determinin
 
 
 ## Analysis and Results
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+
 1- How many Vine reviews and non-Vine reviews were there?
+
 2A- How many Vine reviews were 5 stars? 
+
 2B- How many non-Vine reviews were 5 stars?
+
 3A- What percentage of Vine reviews were 5 stars? 
+
 3B- What percentage of non-Vine reviews were 5 stars?
 
+
 ## Summary
-The summary states whether or not there is bias, and the results support this statement (2 pt)
+The summary states whether or not there is bias, and the results support this statement 
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. 
 
 Then, provide one additional analysis that you could do with the dataset to support your statement.
-An additional analysis is recommended to support the statement (2 pt)
+An additional analysis is recommended to support the statement 
